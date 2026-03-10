@@ -1,0 +1,36 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.12.7",
+  "startedAt":  "2026-03-08T15:50:54.946182Z",
+  "program":  "c:\\Users\\Darji\\Downloads\\Human_Animal_Classification\\test.ipynb",
+  "codePath":  "c:\\Users\\Darji\\Downloads\\Human_Animal_Classification\\test.ipynb",
+  "codePathLocal":  "test.ipynb",
+  "email":  "shanidarjimsbc123@gmail.com",
+  "root":  "c:\\Users\\Darji\\Downloads\\Human_Animal_Classification",
+  "host":  "Shani_Darji",
+  "executable":  "c:\\Users\\Darji\\Downloads\\Human_Animal_Classification\\.venv\\Scripts\\python.exe",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "265535426560",
+      "used":  "127385538560"
+    }
+  },
+  "memory":  {
+    "total":  "16889040896"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  2048,
+      "architecture":  "Ampere",
+      "uuid":  "GPU-34b99460-534e-f925-7327-9ba1fc8fbefa"
+    }
+  ],
+  "cudaVersion":  "13.1",
+  "writerId":  "wsva70bnfb5x3uw1cko6rbczw2q40xw9"
+}
